@@ -151,7 +151,7 @@ npm install
 Create a `.env` file inside the `backend` folder:
 
 ```env
-MONGODB_URI=your_mongodb_connection_string
+MONGODB_URI=mongodb_connection_string
 PORT=5000
 CLIENT_URL=http://localhost:3000
 JWT_SECRET=your_secret_key
